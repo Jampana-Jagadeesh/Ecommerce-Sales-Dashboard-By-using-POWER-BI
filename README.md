@@ -15,7 +15,13 @@ Check out our Power BI dashboard to visualize the project:
 
 ## Installation
 
-Install Power Desktop 
+1. Download Power BI Desktop:
+  Visit the official Power BI Desktop download page: Power BI Desktop Download.
+  Click on the "Download free" button.
+2.Choose the Version:
+  You might be presented with options to download either the 32-bit or 64-bit version. Choose the appropriate version based on your system architecture.
+3.Run the Installer:
+Once the installer is downloaded, run the executable file.
 
 ## Usage
 
